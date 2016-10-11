@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab3.CreditCard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAABAAAAAAAAAAIAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.685" Collapsed="true" />
+  </Class>
+  <Class Name="Lab3.DebitCard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAABAAAAAAAAAAIAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab3.IKEAMyntAtare2000" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoinMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.PricingTable" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PricingTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.MainClass" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.Tariefeenheden">
+    <Position X="4.25" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tariefeenheden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.UI" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAACAAAQAAAAAAACAACAAAEAEAAABQAAAEJIABA=</HashCode>
+      <FileName>UI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Lab3.UIInfo" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEIAAABAAAAAAIIAAAiAAAAIAAAAAgAAAAIgAAA=</HashCode>
+      <FileName>UIInfo.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Lab3.ICard" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAABAAAAAAAAAAIAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Lab3.UIClass" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UIInfo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab3.UIWay" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>UIInfo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab3.UIDiscount" Collapsed="true">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UIInfo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab3.UIPayment" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UIInfo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
