@@ -17,13 +17,14 @@ namespace Lab3
 		RadioButton fortyDiscount;
 		ComboBox payment;
 		Button pay;
+        TicketOrder order;
 
 		public UI ()
 		{
 			initializeControls ();
 		}
 
-		private void handlePayment(UIInfo info)
+		private void handlePayButton(UIInfo info)
 		{
 			// *************************************
 			// This is the code you need to refactor
@@ -212,7 +213,7 @@ namespace Lab3
 			grid.Controls.Add (pay, 0, 3);
 			grid.SetColumnSpan (pay, 6);
 			// Set up event
-			pay.Click += (object sender, EventArgs e) => handlePayment(getUIInfo());
+			pay.Click += (object sender, EventArgs e) => handlePayButton(getUIInfo());
 		}
 
 		private UIInfo getUIInfo()
